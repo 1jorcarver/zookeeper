@@ -20,6 +20,7 @@
   "homepage": "https://github.com/1jorcarver/zookeeper#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "jest": "^26.5.3",
     "nodemon": "^2.0.4"
   },
   "devDependencies": {}
